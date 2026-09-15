@@ -214,4 +214,4 @@ Panda Antivirus is the full free version, providing all features and updates wit
 Download Panda Antivirus today and safeguard your computer against all online threats with confidence!
 
 ---
-**Last updated:** 2026-09-14 23:40:41 UTC
+**Last updated:** 2026-09-15 03:16:57 UTC
